@@ -5,7 +5,7 @@
 	linea 2 de cuadro
 
 
-<center>Recent IT search</center>
+#<center>Recent IT search</center>
 ------------
 
 | Date   | Title   |
