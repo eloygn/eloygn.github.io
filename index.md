@@ -1,5 +1,8 @@
-An h1 header
+Home of Eloy
 ============
+
+	# Cuadro
+	linea 2 de cuadro
 
 Paragraphs are separated by a blank line.
 
