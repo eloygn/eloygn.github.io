@@ -1,11 +1,11 @@
-Home of Eloy
+<center>Home of Eloy</center>
 ============
 
 	# Contact: 
 	linea 2 de cuadro
 
 
-Recent IT search
+<center>Recent IT search</center>
 ------------
 
 | Date   | Title   |
